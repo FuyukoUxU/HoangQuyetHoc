@@ -1,0 +1,135 @@
+{
+  "state": "done",
+  "startedAt": "2026-11-22T15:02:40.910Z",
+  "finishedAt": "2026-11-22T15:05:56.463Z",
+  "total": 3167,
+  "listeningCount": 787,
+  "speakingCount": 2380,
+  "completed": 3095,
+  "skipped": 0,
+  "failed": 72,
+  "totalBytes": 6034895681,
+  "failedIds": [
+    {
+      "id": "2c487fd9-a998-4f99-8354-90b6a0ab3a8b",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "4a077ed2-523c-417e-9c2f-010025d85f36",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "023c07c6-03c0-4f15-837f-614bf45cfdf2",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "74d87bf9-862f-4778-893f-f87b304398ba",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "6f1dac64-5db3-4343-a476-8f3362aa6d4f",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "72e092e0-f39f-478c-ab1d-2683c632db7d",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "fcc5b95d-e86f-43f4-826a-5f7bc0b1868b",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "34244c9f-27ac-4889-932f-fd08a24f8f57",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "5d62be29-5e1c-422b-834a-e7340cce710c",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "6a0eed49-a02c-46d9-b763-e5761b8cc5d0",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "b67e3bf6-370c-4650-933e-9e7e40bcf3c3",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "bc101314-746f-4e0a-bb7d-1a63a54c3929",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "d8981f32-61f6-478e-a04a-927dde6a7558",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "e1e71d98-ca01-47e4-a6d9-f607bd44a404",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "276bd361-2d6c-4bb5-bfa2-95b7cfdddc84",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "c951db00-3c3a-406e-9bdc-7f4a3c2a2fc5",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "83ce308d-e8f8-47ce-8038-5d9431424221",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "c8835b9a-b908-4975-aaae-29040201c43e",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "d90e60b3-7a38-4e3d-8ca0-1b77cee07bc8",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "c06d3acd-ba38-4a22-90aa-c74789404d38",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "9b852f9d-d93a-4089-88b6-4d476a3b5047",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "c51fc891-ff47-412e-ba84-c979cf5e63e1",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "dc865570-84a7-45d9-96df-510c65566824",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "2e746125-f061-4312-9450-8185962c8ad6",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "d7914c51-3f1c-4a12-bf05-894542ebc312",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "e8a4cb58-86a3-4e40-9c4c-803314e6cfa4",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "c4326d0a-82a2-4989-b451-7f76602ba883",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "f8d23121-850b-4fe2-bcc4-4e1c73b49d8a",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "85f601e8-9daa-498c-a082-baa0333bd2c8",
+      "err": "Non-audio content-type: application/json"
+    },
+    {
+      "id": "f93f53d7-effc-4caa-9eea-4068e60ee67f",
+      "err": "Non-audio content-type: application/json"
+    }
+  ],
+  "updatedAt": "2026-11-22T15:05:56.463Z"
+}

@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.taste-skill/
+next-env.d.ts
+data/auth.json
+data/quizzes/
+data/audio/
+
